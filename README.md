@@ -2,7 +2,7 @@
 
 The script (entitled DiffEx_SCA1_SCA2.ipynb) can be run using the Jupyter Notebook web application, and was run in preparation for publication using the Anaconda distribution of Python 3.6.3.
 
-This code should be run with all of the following .csv files included in the same directory as Fig_2A_2B_S2A_Script.ipynb:
+This code should be run with all of the following .csv files included in the same directory as DiffEx_SCA1_SCA2.ipynb:
 
 ATXN1_82Q_5_Week.csv  
 ATXN1_154Q_5_12_Week.csv  
