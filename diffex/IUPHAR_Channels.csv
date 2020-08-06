@@ -1,0 +1,271 @@
+Gene name,Official IUPHAR receptor name
+Kcnma1,KCa1.1
+Kcnn1,KCa2.1
+Kcnn2,KCa2.2
+Kcnn3,KCa2.3
+Kcnn4,KCa3.1
+Kcnt1,KNa1.1
+Kcnt2,KNa1.2
+Kcnu1,KCa5.1
+Catsper1,CatSper1
+Catsper2,CatSper2
+Catsper3,CatSper3
+Catsper4,CatSper4
+Tpcn1,TPC1
+Tpcn2,TPC2
+Cnga1,CNGA1
+Cnga2,CNGA2
+Cnga3,CNGA3
+Cnga4,CNGA4
+Cngb1,CNGB1
+Cngb3,CNGB3
+Hcn1,HCN1
+Hcn2,HCN2
+Hcn3,HCN3
+Hcn4,HCN4
+Kcnj1,Kir1.1
+Kcnj2,Kir2.1
+Kcnj12,Kir2.2
+Kcnj4,Kir2.3
+Kcnj14,Kir2.4
+Kcnj3,Kir3.1
+Kcnj6,Kir3.2
+Kcnj9,Kir3.3
+Kcnj5,Kir3.4
+Kcnj10,Kir4.1
+Kcnj15,Kir4.2
+Kcnj16,Kir5.1
+Kcnj8,Kir6.1
+Kcnj11,Kir6.2
+Kcnj13,Kir7.1
+Ryr1,RyR1
+Ryr2,RyR2
+Ryr3,RyR3
+Trpa1,TRPA1
+Trpc1,TRPC1
+Trpc2,TRPC2
+Trpc3,TRPC3
+Trpc4,TRPC4
+Trpc5,TRPC5
+Trpc6,TRPC6
+Trpc7,TRPC7
+Trpm1,TRPM1
+Trpm2,TRPM2
+Trpm3,TRPM3
+Trpm4,TRPM4
+Trpm5,TRPM5
+Trpm6,TRPM6
+Trpm7,TRPM7
+Trpm8,TRPM8
+Mcoln1,TRPML1
+Mcoln2,TRPML2
+Mcoln3,TRPML3
+Pkd2,TRPP1
+Pkd2l1,TRPP2
+Pkd2l2,TRPP3
+Trpv1,TRPV1
+Trpv2,TRPV2
+Trpv3,TRPV3
+Trpv4,TRPV4
+Trpv5,TRPV5
+Trpv6,TRPV6
+Kcnk1,K2P1.1
+Kcnk2,K2P2.1
+Kcnk3,K2P3.1
+Kcnk4,K2P4.1
+Kcnk5,K2P5.1
+Kcnk6,K2P6.1
+Kcnk7,K2P7.1
+Kcnk9,K2P9.1
+Kcnk10,K2P10.1
+Kcnk12,K2P12.1
+Kcnk13,K2P13.1
+Kcnk15,K2P15.1
+Kcnk16,K2P16.1
+Kcnk18,K2P18.1
+Cacna1s,Cav1.1
+Cacna1c,Cav1.2
+Cacna1d,Cav1.3
+Cacna1f,Cav1.4
+Cacna1a,Cav2.1
+Cacna1b,Cav2.2
+Cacna1e,Cav2.3
+Cacna1g,Cav3.1
+Cacna1h,Cav3.2
+Cacna1i,Cav3.3
+Kcna1,Kv1.1
+Kcna2,Kv1.2
+Kcna3,Kv1.3
+Kcna4,Kv1.4
+Kcna5,Kv1.5
+Kcna6,Kv1.6
+Kcna7,Kv1.7
+Kcna10,Kv1.8
+Kcnb1,Kv2.1
+Kcnb2,Kv2.2
+Kcnc1,Kv3.1
+Kcnc2,Kv3.2
+Kcnc3,Kv3.3
+Kcnc4,Kv3.4
+Kcnd1,Kv4.1
+Kcnd2,Kv4.2
+Kcnd3,Kv4.3
+Kcnf1,Kv5.1
+Kcng1,Kv6.1
+Kcng2,Kv6.2
+Kcng3,Kv6.3
+Kcng4,Kv6.4
+Kcnq1,Kv7.1
+Kcnq2,Kv7.2
+Kcnq3,Kv7.3
+Kcnq4,Kv7.4
+Kcnq5,Kv7.5
+Kcnv1,Kv8.1
+Kcnv2,Kv8.2
+Kcns1,Kv9.1
+Kcns2,Kv9.2
+Kcns3,Kv9.3
+Kcnh1,Kv10.1
+Kcnh5,Kv10.2
+Kcnh2,Kv11.1
+Kcnh6,Kv11.2
+Kcnh7,Kv11.3
+Kcnh8,Kv12.1
+Kcnh3,Kv12.2
+Kcnh4,Kv12.3
+Hvcn1,Hv1
+Scn1a,Nav1.1
+Scn2a,Nav1.2
+Scn3a,Nav1.3
+Scn4a,Nav1.4
+Scn5a,Nav1.5
+Scn8a,Nav1.6
+Scn9a,Nav1.7
+Scn10a,Nav1.8
+Scn11a,Nav1.9
+Htr3a,5-HT3A
+Htr3b,5-HT3B
+Asic1,ASIC1
+Asic2,ASIC2
+Asic3,ASIC3
+Scnn1a,ENaC ?
+Scnn1b,ENaC ?
+Scnn1g,ENaC ?
+Gabra1,GABAA receptor ?1 subunit
+Gabra2,GABAA receptor ?2 subunit
+Gabra3,GABAA receptor ?3 subunit
+Gabra4,GABAA receptor ?4 subunit
+Gabra5,GABAA receptor ?5 subunit
+Gabra6,GABAA receptor ?6 subunit
+Gabrb1,GABAA receptor ?1 subunit
+Gabrb2,GABAA receptor ?2 subunit
+Gabrb3,GABAA receptor ?3 subunit
+Gabrg1,GABAA receptor ?1 subunit
+Gabrg2,GABAA receptor ?2 subunit
+Gabrg3,GABAA receptor ?3 subunit
+Gabrd,GABAA receptor ? subunit
+Gabre,GABAA receptor ? subunit
+Gabrq,GABAA receptor ? subunit
+Gabrp,GABAA receptor ? subunit
+Gabrr1,GABAA receptor ?1 subunit
+Gabrr2,GABAA receptor ?2 subunit
+Gabrr3,GABAA receptor ?3 subunit
+Glra1,glycine receptor ?1 subunit
+Glra2,glycine receptor ?2 subunit
+Glra3,glycine receptor ?3 subunit
+Glra4,glycine receptor ?4 subunit (pseudogene in humans)
+Glrb,glycine receptor ? subunit
+Gria1,GluA1
+Gria2,GluA2
+Gria3,GluA3
+Gria4,GluA4
+Grid1,GluD1
+Grid2,GluD2
+Grik1,GluK1
+Grik2,GluK2
+Grik3,GluK3
+Grik4,GluK4
+Grik5,GluK5
+Grin1,GluN1
+Grin2a,GluN2A
+Grin2b,GluN2B
+Grin2c,GluN2C
+Grin2d,GluN2D
+Grin3a,GluN3A
+Grin3b,GluN3B
+Itpr1,IP3R1
+Itpr2,IP3R2
+Itpr3,IP3R3
+Chrna1,nicotinic acetylcholine receptor ?1 subunit
+Chrna2,nicotinic acetylcholine receptor ?2 subunit
+Chrna3,nicotinic acetylcholine receptor ?3 subunit
+Chrna4,nicotinic acetylcholine receptor ?4 subunit
+Chrna5,nicotinic acetylcholine receptor ?5 subunit
+Chrna6,nicotinic acetylcholine receptor ?6 subunit
+Chrna7,nicotinic acetylcholine receptor ?7 subunit
+Chrna9,nicotinic acetylcholine receptor ?9 subunit
+Chrna10,nicotinic acetylcholine receptor ?10 subunit
+Chrnb1,nicotinic acetylcholine receptor ?1 subunit
+Chrnb2,nicotinic acetylcholine receptor ?2 subunit
+Chrnb3,nicotinic acetylcholine receptor ?3 subunit
+Chrnb4,nicotinic acetylcholine receptor ?4 subunit
+Chrng,nicotinic acetylcholine receptor ? subunit
+Chrnd,nicotinic acetylcholine receptor ? subunit
+Chrne,nicotinic acetylcholine receptor ? subunit
+P2rx1,P2X1
+P2rx2,P2X2
+P2rx3,P2X3
+P2rx4,P2X4
+P2rx5,P2X5
+P2rx6,P2X6
+P2rx7,P2X7
+Mip,AQP0
+Aqp1,AQP1
+Aqp2,AQP2
+Aqp3,AQP3
+Aqp4,AQP4
+Aqp5,AQP5
+Aqp6,AQP6
+Aqp7,AQP7
+Aqp8,AQP8
+Aqp9,AQP9
+Aqp11,AQP11
+Ano1,CaCC
+Cftr,CFTR
+Clcn1,ClC-1
+Clcn2,ClC-2
+Clcnka,ClC-Ka
+Clcnkb,ClC-Kb
+Clcn3,ClC-3
+Clcn4,ClC-4
+Clcn5,ClC-5
+Clcn6,ClC-6
+Clcn7,ClC-7
+Gje1,Cx23
+Gjb2,Cx26
+Gjb6,Cx30
+Gjc3,Cx30.2
+Gjb4,Cx30.3
+Gjb3,Cx31
+Gjb5,Cx31.1
+Gjd3,Cx31.9
+Gjb1,Cx32
+Gjd2,Cx36
+Gja4,Cx37
+Gja5,Cx40
+Gjd4,Cx40.1
+Gja1,Cx43
+Gjc1,Cx45
+Gja3,Cx46
+Gjc2,Cx47
+Gja8,Cx50
+Gja10,Cx62
+Panx1,Px1
+Panx2,Px2
+Panx3,Px3
+Orai1,Orai1
+Orai2,Orai2
+Orai3,Orai3
+Piezo1,Piezo1
+Piezo2,Piezo2
+Nalcn,Navi2.1

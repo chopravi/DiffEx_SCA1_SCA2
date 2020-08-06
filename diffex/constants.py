@@ -27,5 +27,5 @@ source_path = source_path()
 analysis_path = os.path.join(source_path, 'notebooks')
 
 
-IUPHAR_Channels = pd.read_csv(os.path.join(analysis_path, 'IUPHAR_Channels.csv'), encoding = "ANSI", engine='python')
+IUPHAR_Channels = pd.read_csv(os.path.join(package_path, 'IUPHAR_Channels.csv'), encoding = "ANSI", engine='python')
 IUPHAR_Channels_names = IUPHAR_Channels['Gene name']
